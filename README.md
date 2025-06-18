@@ -19,7 +19,7 @@ A beginner-friendly Python application that generates strong, random passwords b
 ✅ Easy-to-use and lightweight
 
 📸 Demo
-Example:
+Example:![Image](https://github.com/user-attachments/assets/8c4d947c-8d45-45df-98f7-a227e53ecd56)
 
 Length: 10
 
