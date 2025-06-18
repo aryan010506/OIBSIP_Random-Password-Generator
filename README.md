@@ -40,8 +40,11 @@ string & random – for password creation
 
 🧪 How Password Strength is Determined
 Criteria	Result
+
 Short (<6) or 1 type	Weak 🔴
+
 Medium (<10) & 2 types	Moderate 🟠
+
 Long (>=10) & 3 types	Strong 🟢
 
 🙌 Author
